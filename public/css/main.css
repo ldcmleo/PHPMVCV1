@@ -1,0 +1,15 @@
+/* codigo de css principal es aqui */
+/* ligero formateo del diseño */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+footer{
+  background-color: rgb(24, 24, 24);
+}
+
+main{
+  min-height: 100vh;
+}
